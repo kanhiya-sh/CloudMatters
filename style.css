@@ -1,0 +1,9 @@
+body{
+    background-color: #f1f36a;
+    color: blue;
+    font-family: Arial, sans-serif;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 50vh;
+}
